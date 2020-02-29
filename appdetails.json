@@ -4,7 +4,7 @@
     "version":"1.0",
     "title":"New Update Avilable",
     "description":"The App is available at XOMXOM.COM",
-    //"size":"https://git.io/JeY69"
+   
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
