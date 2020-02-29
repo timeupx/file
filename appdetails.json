@@ -2,9 +2,9 @@
   "ads":"false",
   "update":[{
     "version":"1.0",
-    "title":"Do you like this XOMXOM vpn app? Check the source code!",
-    "description":"The App is available at github.com/timeupx/XOMXOM and follow the developer on GitHub github.com/timeupx",
-    "size":"https://git.io/JeY69"
+    "title":"New Update Avilable",
+    "description":"The App is available at XOMXOM.COM",
+    //"size":"https://git.io/JeY69"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
